@@ -376,6 +376,7 @@ footer div.content {
 
 footer .social img {
   margin-right: 19px;
+  
 }
 
 footer h3 {
@@ -442,4 +443,16 @@ footer h3 {
   .content .social {
     display: none;
   }
+  .content .social img {
+      margin-right: 19px;
+      margin-top: 10px;
+    }
+  
+  .content .sites {
+      margin-top: 20px;
+    }
+  
+    .content .right {
+      margin-top: 10px;
+    }
 }
