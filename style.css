@@ -37,6 +37,7 @@ header {
 p {
   line-height: 18px;
   font-size: small;
+  padding-left: 10px;
 }
 
 .logo h3 {
